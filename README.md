@@ -85,7 +85,7 @@
 <br>
 <br>
 
-<a href="https://visitcount.itsvg.in">
+<a href="">
   <img src="https://visitcount.itsvg.in/api?id=dkliberty&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </a>
 
