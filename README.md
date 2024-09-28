@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hi , I'm Akmal!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <a href="https://github.com/DKLiberty/">
-    <img src="https://visitcount.itsvg.in/api?id=dkliberty&label=Profile%20Views&color=12&icon=5&pretty=false" />
-  </a>
+	<a href="https://github.com/DKLiberty/"><img src="https://visitcount.itsvg.in/api?id=dkliberty&label=Profile%20Views&color=12&icon=5&pretty=false" /></a>
+	<a href="https://buymeacoffee.com/dkliberty"><img src="https://img.shields.io/badge/buymeacoffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+
 </div>
 
 <p align="center">
@@ -97,6 +97,7 @@
 ## Contacts
 <br>
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akmal1309)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akmal-sadullaev/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dkliberty1309@mgmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
