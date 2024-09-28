@@ -7,13 +7,11 @@
 </div>
 
 <br>
-<br>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1500&pause=3000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+DKLiberty!" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1500&pause=3000&color=000000&center=true&vCenter=true&width=435&height=100&lines=Welcome+to+DKLiberty!" alt="Typing SVG" />
 </p>
 
-<br>
 <br>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDloZjJ1ZGNiZ294cDhnbHFzYmh6NTJjZW56OThzOXg5cTMzaWdiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f8h8oEShbB1YuagU6i/giphy.gif" width="40"> About me
