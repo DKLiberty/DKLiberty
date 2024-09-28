@@ -53,15 +53,14 @@
 <br>
 <br>
 
-## <b>Contacts</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b>Statistics</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
-<p align="center">
-  <a href="https://github.com/DKLiberty/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DKLiberty&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DKLiberty&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<div align='center'>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=DKLiberty&theme=dark&icon_color=2f80ed&title_color=2f80ed&border_color=2f80ed&locale=en&rank_icon=github&show_icons=true" />
+  </picture>
+</div>
 
 <br>
 <br>
