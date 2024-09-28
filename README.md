@@ -6,9 +6,13 @@
 
 </div>
 
+<br>
+
 <p align="center">
-  <a href="https://github.com/DKLiberty"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+DKLiberty!!!;"></a>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1500&pause=3000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+DKLiberty!" alt="Typing SVG" />
 </p>
+
+<br>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDloZjJ1ZGNiZ294cDhnbHFzYmh6NTJjZW56OThzOXg5cTMzaWdiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f8h8oEShbB1YuagU6i/giphy.gif" width="40"> About me
 <br>
@@ -86,9 +90,9 @@
 
 <p  align="center" width="100%">
     <a href="https://github.com/DKLiberty">
-      <img src="https://github-readme-stats.vercel.app/api?username=DKLiberty&theme=dark&icon_color=2f80ed&title_color=2f80ed&border_color=2f80ed&locale=en&rank_icon=github&include_all_commits=true&show_icons=true" alt="DKLiberty" height="250px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DKLiberty&theme=dark&icon_color=2f80ed&title_color=2f80ed&locale=en&rank_icon=github&include_all_commits=true&show_icons=true" alt="DKLiberty" height="250px" />
     </a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&theme=dark&title_color=2f80ed&border_color=2f80ed&show_icons=true&locale=en" alt="DKLiberty" height="250px" />
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&theme=dark&title_color=2f80ed&show_icons=true&locale=en" alt="DKLiberty" height="250px" />
 </p>
 
 <br>
