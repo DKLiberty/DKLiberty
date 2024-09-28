@@ -53,15 +53,17 @@
 <br>
 <br>
 
------
-
+## <b>Contacts</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
-<!---
-DKLiberty/DKLiberty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://github.com/DKLiberty/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DKLiberty&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DKLiberty&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
+<br>
 <br>
 
 ## <b>Contacts</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -87,10 +89,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://visitcount.itsvg.in/api?id=dkliberty&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </a>
 
-<p align="center">
-  <a href="https://github.com/DKLiberty/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DKLiberty&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DKLiberty&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
 
+<!---
+DKLiberty/DKLiberty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
