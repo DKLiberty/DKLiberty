@@ -18,7 +18,7 @@
 
 - :school: I am a Junior at [21-School](https://21-school.ru/).
 - :student: I’m currently learning DevOps.
-- ⚡ Fun fact: ... I am batman. 🦇
+- ⚡ Fun fact: I am batman. 🦇
 
 <br>
 <br>
