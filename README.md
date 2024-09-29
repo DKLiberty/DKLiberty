@@ -2,7 +2,7 @@
 
 <div align="center">
 	<a href="https://github.com/DKLiberty/"><img src="https://visitcount.itsvg.in/api?id=dkliberty&label=Profile%20Views&color=12&icon=5&pretty=false" /></a>
-	<a href="https://buymeacoffee.com/dkliberty"><img src="https://img.shields.io/badge/buymeacoffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+	<a href="https://buymeacoffee.com/dkliberty"><img src="https://img.shields.io/badge/buy me a coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 
 </div>
 
