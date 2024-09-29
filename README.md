@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1500&pause=3000&color=000000&center=true&vCenter=true&width=435&height=100&lines=Welcome+to+DKLiberty!" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=1500&pause=4000&color=2F80ED&center=true&vCenter=true&width=650&height=150&lines=Welcome+to+DKLiberty!" alt="Typing SVG" />
 </p>
 
 <br>
@@ -90,9 +90,9 @@
 
 <p  align="center" width="100%">
     <a href="https://github.com/DKLiberty">
-      <img src="https://github-readme-stats.vercel.app/api?username=DKLiberty&theme=dark&icon_color=2f80ed&title_color=2f80ed&locale=en&rank_icon=github&include_all_commits=true&show_icons=true" alt="DKLiberty" height="250px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DKLiberty&theme=dark&icon_color=2f80ed&title_color=2f80ed&locale=en&rank_icon=github&include_all_commits=true&border_color=151515&show_icons=true" alt="DKLiberty" height="250px" />
     </a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&theme=dark&title_color=2f80ed&show_icons=true&locale=en" alt="DKLiberty" height="250px" />
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&theme=dark&title_color=2f80ed&border_color=151515&show_icons=true&locale=en" alt="DKLiberty" height="250px" />
 </p>
 
 <br>
@@ -104,7 +104,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akmal1309)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akmal-sadullaev/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dkliberty1309@mgmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dkliberty/)
 [![Steam](https://img.shields.io/badge/Steam-%23E4405F.svg?color=405DE6&style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/DKLiberty)
 [![Chess.com](https://img.shields.io/badge/Chess.com-%23E4405F.svg?color=baca44&style=for-the-badge&logo=Chessdotcom&logoColor=black)](https://www.chess.com/member/dkliberty)
 
