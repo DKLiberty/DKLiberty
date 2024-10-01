@@ -113,6 +113,6 @@
 <br>
 
 -----
-Credits: [DKLiberty](https://github.com/DKLiberty/)
+Credits: [DKLiberty](https://github.com/DKLiberty)
 
-Last Edited on: 28/09/2024
+Last Edited on: 01/10/2024
