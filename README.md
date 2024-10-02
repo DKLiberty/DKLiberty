@@ -86,7 +86,7 @@
 <br>
 <br>
 
-## Stats
+<h1 align="center">Stat</h1>
 <br>
 
 <p  align="center">
@@ -99,7 +99,7 @@
 <br>
 <br>
 
-## Contacts
+<h1 align="center">Contact</h1>
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akmal1309)
