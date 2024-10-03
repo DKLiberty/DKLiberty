@@ -92,7 +92,7 @@
 <p  align="center">
 	<img src="https://github-readme-stats.vercel.app/api/?username=DKLiberty&theme=shadow_blue&text_color=747474&icon_color=2f80ed&title_color=2f80ed&border_color=2f80ed&show_icons=true" alt="DKLiberty" height="200px" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKLiberty&theme=shadow_blue&text_color=747474&title_color=2f80ed&border_color=2f80ed&layout=compact&show_icons=true&locale=en" alt="DKLiberty" height="200" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=DKLiberty&theme=shadow_blue&text_color=747474&date_format=j%20M%5B%20Y%5D&&currStreakLabel=2f80ed&fire=2f80ed&sideNums=2f80ed&stroke=2f80ed&sideLabels=2f80ed&ring=2f80ed" alt="GitHub Streak Stats" height="200"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=DKLiberty&theme=shadow_blue&text_color=747474&date_format=j%20M%5B%20Y%5D&&currStreakLabel=2f80ed&fire=2f80ed&sideNums=2f80ed&stroke=2f80ed&sideLabels=2f80ed&ring=2f80ed&border=2f80ed" alt="GitHub Streak Stats" height="200"/>
 	
 </p>
 
