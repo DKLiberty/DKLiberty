@@ -107,6 +107,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dkliberty1309@mgmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dkliberty/)
 [![Steam](https://img.shields.io/badge/Steam-%23E4405F.svg?color=405DE6&style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/DKLiberty)
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27565340/dkliberty)
 [![Chess.com](https://img.shields.io/badge/Chess.com-%23E4405F.svg?color=baca44&style=for-the-badge&logo=Chessdotcom&logoColor=black)](https://www.chess.com/member/dkliberty)
 
 <br>
