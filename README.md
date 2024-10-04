@@ -102,7 +102,7 @@
 <br>
 <br>
 
-<h1 align="center">Contact</h1>
+<h1 align="center">Contacts</h1>
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akmal1309)
@@ -119,4 +119,4 @@
 -----
 Credits: [DKLiberty](https://github.com/DKLiberty)
 
-Last Edited on: 03/10/2024
+Last Edited on: 04/10/2024
