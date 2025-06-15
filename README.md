@@ -1,7 +1,6 @@
 <h1 align="center"><b>Hi , I'm Akmal!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-	<a href="https://github.com/DKLiberty/"><img src="https://visitcount.itsvg.in/api?id=dkliberty&label=Profile%20Views&color=12&icon=5&pretty=false" /></a>
 	<a href="https://buymeacoffee.com/dkliberty"><img src="https://img.shields.io/badge/buy me a coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </div>
 
