@@ -88,6 +88,8 @@
 <br>
 <br>
 
+<!---
+
 <h1 align="center">Stat</h1>
 <br>
 
@@ -100,6 +102,8 @@
 
 <br>
 <br>
+
+--->
 
 <h1 align="center">Contacts</h1>
 <br>
